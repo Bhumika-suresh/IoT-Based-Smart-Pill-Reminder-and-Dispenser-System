@@ -73,17 +73,6 @@ This project solves these problems by combining automated reminders, pill dispen
 - Blynk IoT Platform (Future Enhancement)
 
 ---
-## System architecture
-
-<img width="1337" height="1458" alt="PILL 3" src="https://github.com/user-attachments/assets/e4db1b95-9e9d-4dc1-992c-e7401228e01b" />
-
----
-
-## Circuit Diagram
-
-<img width="1092" height="708" alt="PILL 4" src="https://github.com/user-attachments/assets/c777dc4c-24f9-4e3c-844f-d0c64cdefd73" />
-
----
 
 ## Circuit Connections
 
